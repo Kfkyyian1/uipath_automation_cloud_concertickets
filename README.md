@@ -15,6 +15,7 @@ Logic:
 - UiPath will check if the code is correct to allow fans into the site to view tour dates and buy tickets
 
 ## App Demo/Testing
+![](https://github.com/Kfkyyian1/uipath_automation_cloud_concertickets/blob/main/CorrectCode_Testing.gif) <br>
 The GIF above shows the scenario when the correct secret code was used. By clicking on the “Next” button, it guided the user to the tour page. By clicking on the “Back” button, it guided user to the main page. 
 
 The next GIF above shows the scenario when the wrong secret code was used. The error message popped up. The test was also done on the mandatory email field, where the field becomes red and mentions that it’s required to fill in when there’s none.
