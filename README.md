@@ -16,8 +16,9 @@ Logic:
 
 ## App Demo/Testing
 ![](https://github.com/Kfkyyian1/uipath_automation_cloud_concertickets/blob/main/CorrectCode_Testing.gif) <br>
-The GIF above shows the scenario when the correct secret code was used. By clicking on the “Next” button, it guided the user to the tour page. By clicking on the “Back” button, it guided user to the main page. 
+The GIF above shows the scenario when the correct secret code was used. By clicking on the “Next” button, it guided the user to the tour page. By clicking on the “Back” button, it guided user to the main page. <br>
 
+![](https://github.com/Kfkyyian1/uipath_automation_cloud_concertickets/blob/main/WrongCode_Testing.gif) <br>
 The next GIF above shows the scenario when the wrong secret code was used. The error message popped up. The test was also done on the mandatory email field, where the field becomes red and mentions that it’s required to fill in when there’s none.
 
 #### Error Screenshots
@@ -73,7 +74,8 @@ This button will lead users to the main webpage on the same tab.
 Screenshot 10 <br>
 As the form is complete and conditions are set, it can be observed that there’s a lightning icon beside the buttons indicating that there’s a condition. 
 
-
+## Conclusion
+This use case would be useful for established artists who would like to reduce ticket scalpers from getting tickets in bulk and allow more genuine fans to buy the tickets. The secret code can be given to fans through social media (livestream or stories) or email blast so fans who follow them can get the code. To enhance the app, a database of unique codes can be inputted and used to crosscheck, so fans can only use unique codes once and further proof bulk buying.
 
 
 
